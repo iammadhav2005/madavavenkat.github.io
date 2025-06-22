@@ -1,3 +1,3 @@
 # Personal_portfolio
 Hello all, I am Madava Venkat!! Here you can find my personal portfolio
-https://madavavenkatj.github.io/
+https://iammadhav2005.github.io/madavavenkat.github.io/
